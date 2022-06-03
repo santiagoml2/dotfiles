@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = santiagoml@hotmail.com
+	name = santiago munoz
